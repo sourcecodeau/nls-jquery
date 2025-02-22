@@ -1,0 +1,28 @@
+{
+  "name": "nls-jquery",
+  "version": "1.0.0",
+  "description": "This is a package to utilise NotLocalStorage.io via JavaScr\u001b[Dis the jQuery version.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourcecodeau/nls-jquery.git"
+  },
+  "keywords": [
+    "nls",
+    "nls-jquery",
+    "NotLocalStorage",
+    "NotLocalStorage-jQuery"
+  ],
+  "author": "Lars Sorhus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourcecodeau/nls-jquery/issues"
+  },
+  "homepage": "https://github.com/sourcecodeau/nls-jquery#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
